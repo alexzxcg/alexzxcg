@@ -3,7 +3,7 @@
 I'm a 24-year-old full stack developer with a passion for creating innovative and efficient solutions. Graduated in Systems Analysis and Development at the 
 [Dom Bosco Catholic University (UCDB)](https://site.ucdb.br/).I currently work as a Back-End Software Developer with Java and Front-End JavaScript, HTML and CSS.
 
-### Courses I am learning or have already completed!
+### Courses I am learning or already completed!
 - [Java e SpringBoot](https://www.udemy.com/course/java-curso-completo/?couponCode=KEEPLEARNING) (Concluded)
 - [Course Web de HTML CSS e JavaScprit +Tools/Frameworks](https://www.udemy.com/course/curso-web/?couponCode=KEEPLEARNING) (Concluded)
 - [React+Redux](https://www.udemy.com/course/react-redux-pt/?couponCode=KEEPLEARNING)
