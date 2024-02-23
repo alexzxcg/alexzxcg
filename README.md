@@ -35,6 +35,6 @@ I'm looking for software development companies, to improve my current knowledge 
 
 ### [Project I'm currently working on!](https://github.com/alexzxcg/workshop-clonekabum)
 
-#### 📫 Como entrar em contato comigo:
+#### 📫 How to contact me:
 - dev.alex.rodrigues.holanda@gmail.com
 - https://www.linkedin.com/in/alex-rodrigues-holanda-078a38280/
