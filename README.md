@@ -11,7 +11,7 @@ I'm a 24-year-old full stack developer with a passion for creating innovative an
 - [Java Microservices with Spring Boot and Spring Cloud](https://www.udemy.com/course/microsservicos-java-spring-cloud/?couponCode=KEEPLEARNING)
 - [AWS](https://www.udemy.com/course/aws-na-pratica/?couponCode=KEEPLEARNING)
 - [Software Testing](https://www.udemy.com/course/teste-software-completo-testes-automaticos/?couponCode=KEEPLEARNING)
-- [Integração contínua utilizando Jenkins](https://www.udemy.com/course/integracao-continua-jenkins/?couponCode=KEEPLEARNING)
+- [Continuous integration using Jenkins](https://www.udemy.com/course/integracao-continua-jenkins/?couponCode=KEEPLEARNING)
 
 ### Language ​​and tools that I know or am learning
 ![java (3)](https://github.com/alexzxcg/alexzxcg/assets/80990365/cd4c989f-0814-41dd-b725-f0e8fc6af4b4)
