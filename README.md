@@ -1,7 +1,7 @@
 # Hello!👋🏽
 ## Welcome to my GitHub, my name is Alex
 I'm a 24-year-old full stack developer with a passion for creating innovative and efficient solutions. Graduated in Systems Analysis and Development at the 
-[Universidade Católica Dom Bosco](https://site.ucdb.br/).I currently work as a Back-End Software Developer with Java and Front-End JavaScript, HTML and CSS.
+[Universidade Católica Dom Bosco (UCDB)](https://site.ucdb.br/).I currently work as a Back-End Software Developer with Java and Front-End JavaScript, HTML and CSS.
 
 ### Courses I am learning or have already completed!
 - [Java e SpringBoot](https://www.udemy.com/course/java-curso-completo/?couponCode=KEEPLEARNING) (Concluded)
