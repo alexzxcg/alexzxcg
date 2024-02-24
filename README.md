@@ -13,7 +13,7 @@ I'm a 24-year-old full stack developer with a passion for creating innovative an
 - [Software Testing](https://www.udemy.com/course/teste-software-completo-testes-automaticos/?couponCode=KEEPLEARNING)
 - [Continuous integration using Jenkins](https://www.udemy.com/course/integracao-continua-jenkins/?couponCode=KEEPLEARNING)
 
-### Language ​​and tools that I know or am learning
+### Language ​​and tools that I know or I am learning
 ![java (3)](https://github.com/alexzxcg/alexzxcg/assets/80990365/cd4c989f-0814-41dd-b725-f0e8fc6af4b4)
 ![icons8-spring-boot-32](https://github.com/alexzxcg/alexzxcg/assets/80990365/36884eb3-3019-4d52-a661-86a416d0c692)
 ![js (1)](https://github.com/alexzxcg/alexzxcg/assets/80990365/377f204e-d429-4d05-87af-1b146ee1facb)
