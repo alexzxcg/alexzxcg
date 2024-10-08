@@ -33,8 +33,6 @@ I'm a 24-year-old full stack developer with a passion for creating innovative an
 ### What I'm looking for collaborate!
 I'm looking for software development companies, to improve my current knowledge and delve even deeper into this technological world. Let's innovate this world together!
 
-### [Project I'm currently working on!](https://github.com/alexzxcg/workshop-clonekabum)
-
 #### 📫 How to contact me:
 - dev.alex.rodrigues.holanda@gmail.com
 - https://www.linkedin.com/in/alex-rodrigues-holanda-078a38280/
