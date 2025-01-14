@@ -8,6 +8,7 @@ I'm a 24-year-old full stack developer with a passion for creating innovative an
 - [Formation: Java and Spring Boot - 34h](https://cursos.alura.com.br/degree/certificate/99c958d7-4e24-42f9-845e-ca9230002b72?lang=pt_BR)
 - [Formation: Java Web: Create Applications Using Spring Boot - 40h](https://cursos.alura.com.br/degree/certificate/3adca991-aed5-4c30-afce-76b19901c87f?lang=pt_BR)
 - [Formation: Design Patterns Java - 31h](https://cursos.alura.com.br/degree/certificate/f484d46f-743e-4a0e-b26c-61264924c513?lang=pt_BR)
+- Formation: Deepen Your Knowledge in Java with Microservices Architecture, Spring, and RabbitMQ - In progress
 - [Formation: Data Modeling - 33h](https://cursos.alura.com.br/degree/certificate/3d14a2c8-bdc2-45c9-9873-d3fcc7e68379?lang=pt_BR)
 - [Formation: Understanding SQL - 41h](https://cursos.alura.com.br/degree/certificate/7dfcbae9-e2e5-4c65-8770-fe4f93d2fa42?lang=pt_BR)
 
