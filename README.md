@@ -3,15 +3,13 @@
 I'm a 24-year-old full stack developer with a passion for creating innovative and efficient solutions. Graduated in Systems Analysis and Development at the 
 [Dom Bosco Catholic University (UCDB)](https://site.ucdb.br/).I currently work as a Back-End Software Developer with Java and Spring Framework.
 
-### Courses I am learning or already completed!
-- [Java e SpringBoot](https://www.udemy.com/course/java-curso-completo/?couponCode=KEEPLEARNING) (Concluded)
-- [Course Web de HTML CSS e JavaScprit +Tools/Frameworks](https://www.udemy.com/course/curso-web/?couponCode=KEEPLEARNING) (Concluded)
-- [React+Redux](https://www.udemy.com/course/react-redux-pt/?couponCode=KEEPLEARNING)
-- [Design Patterns in JAVA](https://www.udemy.com/course/padroes-de-projeto-em-java-na-pratica/?couponCode=KEEPLEARNING)
-- [Java Microservices with Spring Boot and Spring Cloud](https://www.udemy.com/course/microsservicos-java-spring-cloud/?couponCode=KEEPLEARNING)
-- [AWS](https://www.udemy.com/course/aws-na-pratica/?couponCode=KEEPLEARNING)
-- [Software Testing](https://www.udemy.com/course/teste-software-completo-testes-automaticos/?couponCode=KEEPLEARNING)
-- [Continuous integration using Jenkins](https://www.udemy.com/course/integracao-continua-jenkins/?couponCode=KEEPLEARNING)
+### [Courses I am learning or already completed!](https://cursos.alura.com.br/user/alex-xp123/fullCertificate/492a7fb5dc2c94ca6d975bc15c693a42)
+- Formation: Java and Object-Oriented Programming - 51h
+- [Formation: Java and Spring Boot - 34h](https://cursos.alura.com.br/degree/certificate/99c958d7-4e24-42f9-845e-ca9230002b72?lang=pt_BR)
+- [Formation: Java Web: Create Applications Using Spring Boot - 40h](https://cursos.alura.com.br/degree/certificate/3adca991-aed5-4c30-afce-76b19901c87f?lang=pt_BR)
+- [Formation: Design Patterns Java - 31h](https://cursos.alura.com.br/degree/certificate/f484d46f-743e-4a0e-b26c-61264924c513?lang=pt_BR)
+- [Formation: Data Modeling - 33h](https://cursos.alura.com.br/degree/certificate/3d14a2c8-bdc2-45c9-9873-d3fcc7e68379?lang=pt_BR)
+- [Formation: Understanding SQL - 41h](https://cursos.alura.com.br/degree/certificate/7dfcbae9-e2e5-4c65-8770-fe4f93d2fa42?lang=pt_BR)
 
 ### Language ​​and tools that I know or I am learning
 ![java (3)](https://github.com/alexzxcg/alexzxcg/assets/80990365/cd4c989f-0814-41dd-b725-f0e8fc6af4b4)
